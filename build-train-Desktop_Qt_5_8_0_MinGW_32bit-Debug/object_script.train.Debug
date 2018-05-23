@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\ziz.o
+./debug\dialog.o
+./debug\dialog1.o
+./debug\dialog2.o
+./debug\dialog3.o
+./debug\qrc_recource.o
+./debug\moc_ziz.o
+./debug\moc_dialog.o
+./debug\moc_dialog1.o
+./debug\moc_dialog2.o
+./debug\moc_dialog3.o
+);
